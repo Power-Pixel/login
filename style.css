@@ -1,0 +1,29 @@
+body{
+	background: url("arbol.jpg")no-repeat fixed;
+	-webkit-background-size :cover;
+	-o-background-size-cover";
+	-moz-background-size-cover;
+	-background-size-cover;
+}
+.cuadro{
+	background:rgba(144, 141, 141, 0.25);
+	width: 500px; 
+	height: 350px; 
+	margin-top: 250px;
+}
+.texto{
+	display: flex;
+    
+}
+.max {
+	font-family: 'Satisfy', cursive;
+}
+
+.top{
+	font-family: 'Fascinate Inline', cursive;
+}
+ .drago {
+ 	font-family: 'Handlee', cursive;
+ }
+
+ 	
